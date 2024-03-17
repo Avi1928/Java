@@ -1,0 +1,13 @@
+Hacking has been a part of computing for almost five decades and it is a very broad 
+discipline, which covers a wide range of topics. The first known event of hacking had taken 
+place in 1960 at MIT and at the same time, the term "Hacker" was originated.
+Hacking is the act of finding the possible entry points that exist in a computer system or 
+a computer network and finally entering into them. Hacking is usually done to gain 
+unauthorized access to a computer system or a computer network, either to harm the 
+systems or to steal sensitive information available on the computer.
+Hacking is usually legal as long as it is being done to find weaknesses in a computer or 
+network system for testing purpose. This sort of hacking is what we call Ethical Hacking.
+A computer expert who does the act of hacking is called a "Hacker". Hackers are those 
+who seek knowledge, to understand how systems operate, how they are designed, and 
+then attempt to play with these systems.
+
